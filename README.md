@@ -1,1 +1,1 @@
-# frsi_algo
+# fsri_algo
